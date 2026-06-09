@@ -1,5 +1,5 @@
 ## Multi-Sector Financial Performance Tracker
-Analyzed 8 quarters of financial data across 5 companies — 
+Analyzed 8 quarters of financial data across 5 companies -
 HUL, Asian Paints, HDFC Bank, Tata Motors, Sun Pharma.
 
 **Tools used:** Excel | Power BI | Screener.in
